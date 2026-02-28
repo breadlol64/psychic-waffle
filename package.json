@@ -29,6 +29,7 @@
 		"vite": "^7.3.1"
 	},
 	"dependencies": {
-		"@netlify/blobs": "^10.7.0"
+		"@netlify/blobs": "^10.7.0",
+		"axios": "^1.13.6"
 	}
 }
